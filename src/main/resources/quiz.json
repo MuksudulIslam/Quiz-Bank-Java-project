@@ -1,0 +1,282 @@
+[
+  {
+    "answerKey": 3,
+    "question": "What is the primary goal of Software Quality Assurance (SQA)?",
+    "option3": "Ensuring software quality",
+    "option4": "Enhancing user experience",
+    "option1": "Bug fixing",
+    "option2": "Delivering software on time"
+  },
+  {
+    "answerKey": 3,
+    "question": "Which phase of the Software Development Life Cycle (SDLC) is SQA most closely associated with?",
+    "option3": "Testing",
+    "option4": "Deployment",
+    "option1": "Requirement Analysis",
+    "option2": "Design"
+  },
+  {
+    "answerKey": 4,
+    "question": "Which of the following is NOT a software quality attribute?",
+    "option3": "Availability",
+    "option4": "Quantity",
+    "option1": "Performance",
+    "option2": "Scalability"
+  },
+  {
+    "answerKey": 3,
+    "question": "What is the purpose of a Test Plan in SQA?",
+    "option3": "To document testing approach and scope",
+    "option4": "To create user documentation",
+    "option1": "To write code",
+    "option2": "To execute test cases"
+  },
+  {
+    "answerKey": 3,
+    "question": "Which type of testing is performed to evaluate the system's compliance with specified requirements?",
+    "option3": "System testing",
+    "option4": "System testing",
+    "option1": "Unit testing",
+    "option2": "Integration testing"
+  },
+  {
+    "answerKey": 2,
+    "question": "What is the main goal of Regression Testing?",
+    "option3": "To validate user requirements",
+    "option4": "To test performance under stress",
+    "option1": "To find security vulnerabilities",
+    "option2": "To ensure new changes haven't broken existing functionality"
+  },
+  {
+    "answerKey": 3,
+    "question": "Which testing technique involves testing a module in isolation from the rest of the system?",
+    "option3": "Unit testing",
+    "option4": "Black-box testing",
+    "option1": "Integration testing",
+    "option2": "White-box testing"
+  },
+  {
+    "answerKey": 2,
+    "question": "What is the purpose of Code Review in SQA?",
+    "option3": "To test the software with real users",
+    "option4": "To document system requirements",
+    "option1": "To write test cases",
+    "option2": "To find and fix defects in the source code"
+  },
+  {
+    "answerKey": 3,
+    "question": "Which of the following is a static testing technique?",
+    "option3": "Code review",
+    "option4": "Load testing",
+    "option1": "Functional testing",
+    "option2": "Usability testing"
+  },
+  {
+    "answerKey": 2,
+    "question": "Which SQA activity focuses on making sure that software can be used by people with disabilities?",
+    "option3": "Performance testing",
+    "option4": "Security testing",
+    "option1": "Usability testing",
+    "option2": "Accessibility testing"
+  },
+  {
+    "answerKey": 2,
+    "question": "What is the primary purpose of a Traceability Matrix in SQA?",
+    "option3": "To document coding standards",
+    "option4": "To manage project schedules",
+    "option1": "To track the progress of software development",
+    "option2": "To trace requirements to test cases"
+  },
+  {
+    "answerKey": 1,
+    "question": "Which SQA process involves evaluating software artifacts to ensure they meet established standards and guidelines?",
+    "option3": "Verification",
+    "option4": "Validation",
+    "option1": "Quality control",
+    "option2": "Quality assurance"
+  },
+  {
+    "answerKey": 1,
+    "question": "Which type of testing evaluates the system's performance under expected load conditions?",
+    "option3": "Usability testing",
+    "option4": "Smoke testing",
+    "option1": "Stress testing",
+    "option2": "Regression testing"
+  },
+  {
+    "answerKey": 1,
+    "question": "Which SQA activity aims to identify and mitigate potential risks early in the project?",
+    "option3": "Change management",
+    "option4": "Release planning",
+    "option1": "Risk assessment",
+    "option2": "Issue tracking"
+  },
+  {
+    "answerKey": 1,
+    "question": "What does the \"V\" in the V-Model of software development stand for?",
+    "option3": "Variation",
+    "option4": "Version",
+    "option1": "Verification",
+    "option2": "Validation"
+  },
+  {
+    "answerKey": 2,
+    "question": "Which is not static testing?",
+    "option3": "Peer Review",
+    "option4": "Inspection",
+    "option1": "Walkthrough",
+    "option2": "Exploratory Testing"
+  },
+  {
+    "answerKey": 1,
+    "question": "Which of the following is a typical test objective?",
+    "option3": "Comparing actual results to expected results",
+    "option4": "Analyzing the cause of failure",
+    "option1": "Preventing defects",
+    "option2": "Repairing defects"
+  },
+  {
+    "answerKey": 2,
+    "question": "Suppose, you visit the HSC result publishing site to see the result of your younger brother\/sister. But you see that site is down. What is the reason?",
+    "option3": "The error",
+    "option4": "The defect",
+    "option1": "The fault",
+    "option2": "The failure"
+  },
+  {
+    "answerKey": 2,
+    "question": "A product owner says that your role as a tester on an Agile team is to catch all the bugs before the end of each iteration. Which of the following is a testing principle that could be used to respond to this (false) statement?",
+    "option3": "Absence of error fallacy",
+    "option4": "Root cause analysis",
+    "option1": "Defect clustering",
+    "option2": "Testing shows the presence of defects"
+  },
+  {
+    "answerKey": 4,
+    "question": "Test data planning is included when",
+    "option3": "While doing automation",
+    "option4": "Test procedure planning",
+    "option1": "Equivalent partitioning",
+    "option2": "Boundary value analysis"
+  },
+  {
+    "answerKey": 2,
+    "question": "White Box techniques are also classified as",
+    "option3": "Error guessing Technique",
+    "option4": "None of them",
+    "option1": "Design based Testing",
+    "option2": "Structural Testing"
+  },
+  {
+    "answerKey": 1,
+    "question": "Alpha testing is done at",
+    "option3": "Developer's and User's end ",
+    "option4": "none of them",
+    "option1": "Developer's end ",
+    "option2": "User's end"
+  },
+  {
+    "answerKey": 2,
+    "question": "The testing in which code is checked",
+    "option3": "Gray Box Testing",
+    "option4": "Red Box Testing ",
+    "option1": "Black Box Testing",
+    "option2": "White Box Testing"
+  },
+  {
+    "answerKey": 4,
+    "question": "Acceptance testing is also known as",
+    "option3": "Alpha Testing",
+    "option4": "Beta Testing",
+    "option1": "Grey Box Testing",
+    "option2": "White Box Testing"
+  },
+  {
+    "answerKey": 1,
+    "question": "Beta testing is done at",
+    "option3": "User's and Developer's end ",
+    "option4": "None of them",
+    "option1": "User's end",
+    "option2": "Developer's end"
+  },
+  {
+    "answerKey": 2,
+    "question": "Unit testing is done by",
+    "option3": "Customers",
+    "option4": "None of them",
+    "option1": "Users",
+    "option2": "Developers"
+  },
+  {
+    "answerKey": 2,
+    "question": "Behavioral testing is",
+    "option3": "Grey Box Testing ",
+    "option4": "Unit Testing",
+    "option1": "White Box Testing",
+    "option2": "Black Box Testing"
+  },
+  {
+    "answerKey": 3,
+    "question": "What is not the blackbox testing strategy?",
+    "option3": "Branch Testing",
+    "option4": "State Transition",
+    "option1": "Equivalence Partitioning",
+    "option2": "Boundary Value Testing"
+  },
+  {
+    "answerKey": 1,
+    "question": "What is the purpose of test closure?",
+    "option3": "Both above",
+    "option4": "None of them",
+    "option1": "When a test is completed ",
+    "option2": "when a test has completed "
+  },
+  {
+    "answerKey": 2,
+    "question": "Which testing technique will you apply for if having inadequate requirement specification?",
+    "option3": "Monkey Testing",
+    "option4": "Feature Testing",
+    "option1": "Error Guessing",
+    "option2": "Exploratory Testing"
+  },
+  {
+    "answerKey": 3,
+    "question": "Which is not the part of white box testing?",
+    "option3": "Syntax Testing",
+    "option4": "Condition Testing",
+    "option1": "Branch Testing",
+    "option2": "Statement Testing"
+  },
+  {
+    "answerKey": 4,
+    "question": "Which is not a black box testing technique",
+    "option3": "Transaction Diagrams",
+    "option4": "Decision Testing",
+    "option1": "Equivalence partition",
+    "option2": "Decision Tables"
+  },
+  {
+    "answerKey": 2,
+    "question": "What is the main purpose of integration testing?",
+    "option3": "Procedure Errors",
+    "option4": "None of them",
+    "option1": "Design Errors",
+    "option2": "Interface Errors"
+  },
+  {
+    "answerKey": 3,
+    "question": "Which of the following is not a part of Performance Testing?",
+    "option3": "measuring the loc.",
+    "option4": "None of them",
+    "option1": "measuring transaction rate.",
+    "option2": "measuring response time."
+  },
+  {
+    "answerKey": 1,
+    "question": "Which of the following is the form of Alpha and Beta Testing?",
+    "option3": "unit testing",
+    "option4": "Integration testing",
+    "option1": "Acceptance testing",
+    "option2": "System testing"
+  }
+]
