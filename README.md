@@ -33,7 +33,7 @@
 
 ## Prerequisites:
 
-- Java Development Kit (JDK): version 11 or higer.
+- Java Development Kit (JDK): version 11 or higher.
 - Integrated Development Environment (IDE): Select that suits your preference such as IntelliJ.
 
 ### How to Run this Project:
