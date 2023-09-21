@@ -44,3 +44,11 @@
 - git clone https://github.com/MuksudulIslam/Java-Quiz-Bank-Project
 
 ### Video Demonstration:
+
+- Admin
+https://github.com/MuksudulIslam/Java-Quiz-Bank-Project/assets/143453305/ab5dfcdf-4382-46aa-9a00-3b9fa977b666
+
+
+
+
+
