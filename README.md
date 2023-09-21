@@ -13,7 +13,7 @@
 
 ### 1. User Authentication
 
-- Admin Login: Admin can login securely wit their credentials.
+- Admin Login: Admin can login securely with their credentials.
 - Student Login: Students can gain access for quizzes using their credentials.
 
 ### 2. Admin Dashboard 
