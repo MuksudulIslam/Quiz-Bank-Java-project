@@ -267,10 +267,11 @@ public class JavaQuizProject {
             String choice = scanner.next().trim().toLowerCase();
 
             if ("s".equals(choice)) {
+                System.out.println("Thank your for Retry Quiz. ");
                 StudentMenu();
 
             } else if ("q".equals(choice)) {
-                System.out.println("Thank your for Retry Quiz. ");
+                System.out.println("Thank you See you soon");
 
             } else {
                 System.out.println("You Choose Invalid Choice for Retry.");

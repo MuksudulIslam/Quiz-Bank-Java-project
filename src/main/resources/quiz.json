@@ -278,5 +278,21 @@
     "option4": "Integration testing",
     "option1": "Acceptance testing",
     "option2": "System testing"
+  },
+  {
+    "answerKey": 3,
+    "question": "A tester participated in a discussion about proposed database structure. The tester identified a potential performance problem related to certain common user searches. This possible problem was explained to the development team. Which of the following is a testing contribution to success that BEST matches this situation?",
+    "option3": "Reducing the risk of fundamental design defects",
+    "option4": "Reducing the risk of untestable functionality",
+    "option1": "Enabling required tests to be identified at an early stage",
+    "option2": "Ensuring processes are carried out properly"
+  },
+  {
+    "answerKey": 2,
+    "question": "What is the USUAL sequence for performing the following activities during the Fundamental Test Process? a. Analyze the requirements b. Writing Test Cases c. Define Testing Scope d. Execute Test results",
+    "option3": "a=>b=>d=>c",
+    "option4": "c=>a=>b=>d",
+    "option1": "a=>b=>c=>d",
+    "option2": "a=>c=>b=>d"
   }
 ]
