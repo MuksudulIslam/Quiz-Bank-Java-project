@@ -25,7 +25,7 @@
 
 - Quiz Question: Random 10 questions are generated from quiz.json file for quizzes questions.
 - Student Experience: Student can answer given questions interactively.
-- Results: Finally system calculates and displays the quiz score accoding the correct answers.
+- Results: Finally, system calculates and displays the quiz score according the correct answers.
 
 ### 4. Data Management 
 
@@ -38,9 +38,9 @@
 
 ### How to Run this Project:
 
-- Clone this Project
+- Clone this Project.
 - Give Following Command
 - ```bash```
 - git clone https://github.com/MuksudulIslam/Java-Quiz-Bank-Project
 
-### Video Demostration:
+### Video Demonstration:
