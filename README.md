@@ -25,7 +25,7 @@
 
 - Quiz Question: Random 10 questions are generated from quiz.json file for quizzes questions.
 - Student Experience: Student can answer given questions interactively.
-- Results: Finally system calculates and displays the quiz score accoding the correct answers.
+- Results: Finally, system calculates and displays the quiz score according the correct answers.
 
 ### 4. Data Management 
 
@@ -33,14 +33,43 @@
 
 ## Prerequisites:
 
-- Java Development Kit (JDK): version 11 or higer.
+- Java Development Kit (JDK): version 11 or higher.
 - Integrated Development Environment (IDE): Select that suits your preference such as IntelliJ.
 
-### How to Run this Project:
+## How to Run this Project:
 
-- Clone this Project
+- Clone this Project.
 - Give Following Command
 - ```bash```
 - git clone https://github.com/MuksudulIslam/Java-Quiz-Bank-Project
 
-### Video Demostration:
+## Video Demonstration:
+
+- Admin
+
+
+https://github.com/MuksudulIslam/Java-Quiz-Bank-Project/assets/143453305/066d9f66-e57b-41d8-99ac-f56f8e8d8e48
+
+
+
+
+
+- Student
+
+
+https://github.com/MuksudulIslam/Java-Quiz-Bank-Project/assets/143453305/0971c5b1-338f-46a8-9839-bbc615e8bf32
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
