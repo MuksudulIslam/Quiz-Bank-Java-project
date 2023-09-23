@@ -41,7 +41,7 @@
 - Clone this Project.
 - Give Following Command
 - ```bash```
-- git clone https://github.com/MuksudulIslam/Java-Quiz-Bank-Project
+- git clone https://github.com/MuksudulIslam/Quiz-Bank-Java-project
 
 ## Video Demonstration:
 
