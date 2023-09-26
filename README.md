@@ -48,16 +48,18 @@
 - Admin
 
 
-https://github.com/MuksudulIslam/Java-Quiz-Bank-Project/assets/143453305/066d9f66-e57b-41d8-99ac-f56f8e8d8e48
-
-
+https://github.com/MuksudulIslam/Quiz-Bank-Java-project/assets/143453305/50e55317-c801-4ec8-9d27-701827d1397a
 
 
 
 - Student
 
 
-https://github.com/MuksudulIslam/Java-Quiz-Bank-Project/assets/143453305/0971c5b1-338f-46a8-9839-bbc615e8bf32
+https://github.com/MuksudulIslam/Quiz-Bank-Java-project/assets/143453305/e92d7d9e-48ef-43b0-b14d-e68a274df0ff
+
+
+
+
 
 
 
